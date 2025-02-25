@@ -41,19 +41,19 @@ sidebar:
     - idiom: VietNamese
       level: Professional
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+  # interests:
+  #   title: Interests
+  #   info:
+  #   - item: Climbing
+  #     link:
 
 
-    - item: Snowboarding
-      link:
+  #   - item: Snowboarding
+  #     link:
 
 
-    - item: Cooking
-      link:
+  #   - item: Cooking
+  #     link:
 
 
 career-profile:
@@ -255,15 +255,16 @@ career-profile:
 #       He is a great employee!
 
 skills:
-  title: Skills
+  title: Web Development Skills
 
   toolset:
-  - name: Web Development Skills 
-          HTML5 & CSS & SASS & PHP & JavaScript
+  - name: HTML5 & CSS & SASS & PHP & JavaScript
+
+skills:
+  title: Database Skills
 
   toolset:
-  - name: Database Skills
-          MongoDB & SQL Server
+  - name: MongoDB & SQL Server
 
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
