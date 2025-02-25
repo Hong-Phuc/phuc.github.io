@@ -255,15 +255,15 @@ career-profile:
 #       He is a great employee!
 
 skills:
-  title: Web Development Skills
+  title: Skills
 
   toolset:
-  - name: HTML5 & CSS & SASS & PHP & JavaScript
-
-  title: Database Skills
+  - name: Web Development Skills 
+          HTML5 & CSS & SASS & PHP & JavaScript
 
   toolset:
-  - name: MongoDB & SQL Server
+  - name: Database Skills
+          MongoDB & SQL Server
 
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
